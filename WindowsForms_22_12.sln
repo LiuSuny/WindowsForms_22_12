@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms_22_12", "WindowsForms_22_12\WindowsForms_22_12.csproj", "{DA542030-4AE1-40CA-A4E8-2F0591D3FA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm_GasoLineStation", "WinForm_GasoLineStation\WinForm_GasoLineStation.csproj", "{0F4BF04B-A1C8-46E8-AFEE-DA09EC49FCDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA542030-4AE1-40CA-A4E8-2F0591D3FA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA542030-4AE1-40CA-A4E8-2F0591D3FA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA542030-4AE1-40CA-A4E8-2F0591D3FA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA542030-4AE1-40CA-A4E8-2F0591D3FA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4BF04B-A1C8-46E8-AFEE-DA09EC49FCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4BF04B-A1C8-46E8-AFEE-DA09EC49FCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4BF04B-A1C8-46E8-AFEE-DA09EC49FCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4BF04B-A1C8-46E8-AFEE-DA09EC49FCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C74C658D-A885-4430-8291-F710F112E5BB}
+	EndGlobalSection
+EndGlobal
